@@ -1,1 +1,1 @@
-# Lab-Assignment-KRMU-Web-dev-1
+# Lab-Assignment-KRMU-Webdev-1
